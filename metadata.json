@@ -1,0 +1,6 @@
+{
+  "name": "Data Warehouse & Modelagem Dimensional",
+  "description": "Material didático interativo com simulações, diagramas, SCDs, quiz e simulações para o ensino de conceitos de Data Warehouse e Modelagem Dimensional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
